@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2019/02/13/hello-world/</loc>
+    <loc>http://shixw.cc/about/index.html</loc>
     
-    <lastmod>2019-02-13T02:02:08.890Z</lastmod>
+    <lastmod>2019-02-13T06:54:24.598Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://shixw.cc/2019/02/13/hello-world/</loc>
+    
+    <lastmod>2019-02-13T06:53:29.799Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://shixw.cc/categories/index.html</loc>
+    
+    <lastmod>2019-02-13T06:40:57.237Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://shixw.cc/tags/index.html</loc>
+    
+    <lastmod>2019-02-13T06:38:20.911Z</lastmod>
     
   </url>
   
