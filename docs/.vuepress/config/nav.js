@@ -52,8 +52,8 @@ module.exports = [
     text: '收藏',
     link: '/pages/beb6c0bd8a66cea6/',
     items: [
-      { text: '技术框架', link: '/pages/beb6c0bd8a66cea6/' },
-      { text: '网站', link: '/pages/beb6c0bd8a66cea6/' },
+      // { text: '技术框架', link: '/pages/eee83a9211a70f9d/' },
+      // { text: '网站', link: '/pages/eee83a9211a70f9d/' },
       { text: '资源', link: '/pages/eee83a9211a70f9d/' },
     ],
   },
