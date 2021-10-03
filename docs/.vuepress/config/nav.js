@@ -21,6 +21,25 @@ module.exports = [
     ],
   },
   {
+    text: '框架使用',
+    link: '/framework/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
+    items: [
+      // 说明：以下所有link的值只是在相应md文件定义的永久链接（不是什么特殊生成的编码）。另外，注意结尾是有斜杠的
+      {
+        text: '日志框架',
+        items: [
+          { text: 'LOG4J', link: '/pages/e65eef/' },
+        ],
+      },
+      // {
+      //   text: '学习笔记',
+      //   items: [
+      //     { text: '《JavaScript教程》', link: '/note/javascript/' },
+      //   ],
+      // },
+    ],
+  },
+  {
     text: '技术',
     link: '/technology/',
     items: [
