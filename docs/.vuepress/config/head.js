@@ -9,7 +9,7 @@ module.exports = [
       content: '学习笔记,个人技术博客,面试题,技术文档,学习,面试,JAVA,vue,git,github,markdown',
     },
   ],
-  // ['meta', { name: 'baidu-site-verification', content: '7F55weZDDc' }], // 百度统计的站长验证
+  ['meta', { name: 'baidu-site-verification', content: 'code-eWjrk5wrKN' }], // 百度统计的站长验证
   ['meta', { name: 'theme-color', content: '#11a8cd' }], // 移动浏览器主题颜色
   // [
   //   'script',
