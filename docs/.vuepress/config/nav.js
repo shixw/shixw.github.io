@@ -21,6 +21,13 @@ module.exports = [
     ],
   },
   {
+    text: '技术',
+    link: '/technology/',
+    items: [
+      { text: 'MySQL', link: '/mysql/' },
+    ],
+  },
+  {
     text: '开源框架',
     link: '/framework/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
     items: [
@@ -33,14 +40,7 @@ module.exports = [
       },
     ],
   },
-  {
-    text: '技术',
-    link: '/technology/',
-    items: [
-      { text: '技术文档', link: '/pages/9a7ee40fc232253e/' },
-      { text: 'GitHub技巧', link: '/pages/4c778760be26d8b3/' },
-    ],
-  },
+
   // { text: '关于', link: '/about/' },
   {
     text: '收藏',
